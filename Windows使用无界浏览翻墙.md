@@ -3,7 +3,7 @@
 #### 1. 在电脑上下载无界软件
 &nbsp;&nbsp; 前往 [gfw-breaker/nogfw](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 下载无界PC版
 
-#### 2. 运行无界浏览（免费安装）
+#### 2. 运行无界浏览（绿色免安装）
 1. 解压zip文件，双击解压后的可执行文件
 2. 若弹出的安全警告对话框，点击“运行”
 3. 等待搜寻服务器
