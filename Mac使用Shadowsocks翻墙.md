@@ -20,7 +20,8 @@
 1. 点击右上角纸飞机图标 -> 服务器 -> 服务器设置
 2. 点击+号添加服务器，填写IP地址、端口、密码及加密协议，点击确定
 3. 点击右上角纸飞机图标，点击打开Shadowsocks
-4. 点击右上角纸飞机图标，点击全局模式<br/>
+4. 点击右上角纸飞机图标，点击全局模式
+5. Safari和Chrome浏览器代理会被自动设置，可以直接翻墙；火狐需要设置代理，请参考[浏览器代理设置](https://github.com/gfw-breaker/guides/wiki/%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE)<br/>
 
 [<img src="../blob/master/resources/mac/ss_03.PNG?raw=true" width="350px"/>](../blob/master/resources/mac/ss_03.PNG?raw=true)
 [<img src="../blob/master/resources/mac/ss_04.PNG?raw=true" width="350px"/>](../blob/master/resources/mac/ss_04.PNG?raw=true) 
