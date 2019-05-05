@@ -16,9 +16,8 @@
 4. 在弹出的网络连接请求对话框中，点击确定允许添加VPN配置
 3. 成功连接后，屏幕上方会纸飞机图标 <br/>
 
-[<img src="../blob/master/resources/android/ss_01.jpg?raw=true" width="220px"/>](../blob/master/resources/android/ss_01.jpg?raw=true)
-[<img src="../blob/master/resources/android/ss_02.jpg?raw=true" width="220px"/>](../blob/master/resources/android/ss_02.jpg?raw=true) 
-[<img src="../blob/master/resources/android/ss_03.jpg?raw=true" width="220px"/>](../blob/master/resources/android/ss_03.jpg?raw=true) 
-  
+[<img src="../blob/master/resources/android/ss_01.png?raw=true" width="220px"/>](../blob/master/resources/android/ss_01.png?raw=true)
+[<img src="../blob/master/resources/android/ss_02.png?raw=true" width="220px"/>](../blob/master/resources/android/ss_02.png?raw=true) 
+[<img src="../blob/master/resources/android/ss_03.png?raw=true" width="220px"/>](../blob/master/resources/android/ss_03.png?raw=true) 
 
 #### 视频教程：https://www.youtube.com/watch?v=jdyEftB8TVA
