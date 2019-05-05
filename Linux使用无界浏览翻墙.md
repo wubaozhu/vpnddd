@@ -9,7 +9,7 @@
 2. 执行 `chmod + ul` 添加可执行权限
 3. 执行 `sudo ./ul` 运行无界
 4. 等待搜寻服务器
-5. 服务器连接成功后，会有 "Connected" 字样输出 <br/>
+5. 服务器连接成功后，会有 "CONNECTED" 字样输出 <br/>
 
 [<img src="../blob/master/resources/linux/ul_01.PNG?raw=true" width="400px"/>](../blob/master/resources/linux/ul_01.PNG?raw=true)
 
