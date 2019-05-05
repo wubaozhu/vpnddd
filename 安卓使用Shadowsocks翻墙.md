@@ -4,7 +4,7 @@
 &nbsp;&nbsp; 前往[gfw-breaker/nogfw](https://github.com/gfw-breaker/nogfw)下载安卓客户端
 
 #### 2. 安装Shadowsocks客户端 
-&nbsp;&nbsp; 点击下载好的APK文件，在弹出对话框中点击安装
+&nbsp;&nbsp; 点击已下载的APK文件，在弹出对话框中点击安装
 
 #### 3. 获取Shadowsocks账号
 &nbsp;&nbsp; 前往 https://github.com/gfw-breaker/ssr-accounts
@@ -21,4 +21,4 @@
 [<img src="../blob/master/resources/anddroid/ss_03.jpg?raw=true" width="220px"/>](../blob/master/resources/anddroid/ss_03.jpg?raw=true) 
   
 
-https://www.youtube.com/watch?v=jdyEftB8TVA
+#### 视频教程：https://www.youtube.com/watch?v=jdyEftB8TVA
