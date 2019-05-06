@@ -34,8 +34,8 @@
 
 #### 4. 检查网络
 1. 等待，服务器创建大概需要2~5分钟
-2. 复制VPS的IP地址，用浏览器打开
-3. 若能打开页面，说明服务器可用；若打不开，请删掉VPS，重新尝试创建新的VPS <br/>
+2. 创建完成后，进入VPS列表页面，复制VPS的IP地址，用浏览器打开
+3. 若能打开页面，说明服务器可用；若5分钟内打不开，请删掉VPS，重新尝试创建新的VPS <br/>
 
 [<img src="../blob/master/resources/vultr/05.png?raw=true" width="600px"/>](../blob/master/resources/vultr/05.png?raw=true)
 --
