@@ -15,11 +15,10 @@
 |ss_method   |    加密方法 |
 |ss_protocol |     协议  |
 |ss_obfs     |     混淆  |
-|ss_speed    |      限速，单位是KB/s； 若为0，表示不限速  |
 
-[<img src="../blob/master/resources/vultr/01.png?raw=true" width="560px"/>](../blob/master/resources/vultr/01.png?raw=true)
+[<img src="../blob/master/resources/vultr/01.png?raw=true" width="600px"/>](../blob/master/resources/vultr/01.png?raw=true)
 --
-[<img src="../blob/master/resources/vultr/02.png?raw=true" width="560px"/>](../blob/master/resources/vultr/02.png?raw=true) 
+[<img src="../blob/master/resources/vultr/02.png?raw=true" width="600px"/>](../blob/master/resources/vultr/02.png?raw=true) 
 
 #### 3. 部署VPS
 1. 点击右上角的“+”号图标，进入创建VPS页面
@@ -29,9 +28,16 @@
 5. 选择 Startup Script，点击刚创建的脚本 onekey-ssr
 6. 填写 Server Hostname & Label，点击 Deploy Now <br/>
 
-[<img src="../blob/master/resources/vultr/03.png?raw=true" width="560px"/>](../blob/master/resources/vultr/03.png?raw=true)
+[<img src="../blob/master/resources/vultr/03.png?raw=true" width="600px"/>](../blob/master/resources/vultr/03.png?raw=true)
 --
-[<img src="../blob/master/resources/vultr/04.png?raw=true" width="560px"/>](../blob/master/resources/vultr/04.png?raw=true) 
+[<img src="../blob/master/resources/vultr/04.png?raw=true" width="600px"/>](../blob/master/resources/vultr/04.png?raw=true) 
 
 #### 4. 检查网络
-1. 
+1. 等待，服务器创建大概需要2~5分钟
+2. 复制VPS的IP地址，用浏览器打开
+3. 若能打开页面，说明服务器可用；若打不开，请删掉VPS，重新尝试创建新的VPS <br/>
+
+[<img src="../blob/master/resources/vultr/05.png?raw=true" width="600px"/>](../blob/master/resources/vultr/05.png?raw=true)
+--
+[<img src="../blob/master/resources/vultr/06.png?raw=true" width="600px"/>](../blob/master/resources/vultr/06.png?raw=true) 
+
