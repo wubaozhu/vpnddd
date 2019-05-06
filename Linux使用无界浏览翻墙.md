@@ -2,7 +2,7 @@
 
 #### 1. 下载无界Linux版
 &nbsp;&nbsp; a. 打开Terminal，执行 `wget https://raw.githubusercontent.com/gfw-breaker/nogfw/master/binary/ul` 下载<br/>
-&nbsp;&nbsp; b. 打开浏览器，前往 [gfw-breaker/nogfw](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 下载无界Linux版 
+&nbsp;&nbsp; b. 或打开浏览器，前往 [gfw-breaker/nogfw](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 下载无界Linux版 
 
 #### 2. 运行无界
 1. 打开Terminal，进入到无界软件所在目录
