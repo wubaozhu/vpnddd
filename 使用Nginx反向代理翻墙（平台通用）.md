@@ -8,3 +8,7 @@
 
 ##### 精彩节目： [江峰时刻](http://134.209.56.161/today-in-history/) &nbsp;|&nbsp; [天亮时分](http://134.209.56.161/tianliang/) &nbsp;|&nbsp; [文昭谈古论今](http://134.209.56.161/wenzhao/) &nbsp;|&nbsp; [大陆新闻解读](http://134.209.56.161/ntdtv-comedy/) &nbsp;|&nbsp; [热点互动](http://134.209.56.161/ntdtv-rdhd/) &nbsp;|&nbsp; [中国禁闻](http://134.209.56.161/ntdtv-news/) &nbsp;|&nbsp; [新闻看点](http://134.209.56.161/news-insight/)
 
+--
+
+##### 项目地址：https://github.com/gfw-breaker/open-proxy/
+##### 部署教程：https://www.youtube.com/watch?v=WpbR8MROq8Y
