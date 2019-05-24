@@ -2,4 +2,4 @@
 ##### 本项目会不定期增加新教程，敬请关注。若您已经会翻墙，可使用本教程中其它方法作为备用。
 ##### 若您有其它比较好（便捷、免费）的翻墙方式，敬请告知。我可以在此汇总，以便服务于在更多网友。
 ##### 您可以在手机上扫描此二维码打开此网页；如果觉得有用，请分享给自己的亲友们。 
-<img src="../blob/master/resources/qr.png?raw=true" width="100px"/> 
+ <img src="../blob/master/resources/qr.png?raw=true" width="100px"/> 
